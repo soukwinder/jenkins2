@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-Description: project56 war
+Bundle-SymbolicName: project56
+Bundle-Name: project56
+Bundle-Version: 0.0.1.SNAPSHOT
+Built-By: Singh
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1454495868163
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Build-Jdk: 1.8.0_60
+
