@@ -1,12 +1,12 @@
 Manifest-Version: 1.0
 Built-By: Singh
-Build-Jdk: 1.8.0_71
+Build-Jdk: 1.8.0_60
 Created-By: Apache Maven Bundle Plugin
 Bundle-Description: project56 war
 Bundle-SymbolicName: project56
 Bundle-Name: project56
 Bundle-Version: 0.0.1.SNAPSHOT
 Bundle-ManifestVersion: 2
-Bnd-LastModified: 1454494669276
+Bnd-LastModified: 1454495868163
 Tool: Bnd-1.15.0
 
